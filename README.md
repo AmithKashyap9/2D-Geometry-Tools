@@ -1,1 +1,2 @@
 # 2D-Geometry-Tools
+A repository for handling and manipulating 2D points using the homegeneous coordinates notation. More information on this can be found at https://engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture2.pdf
